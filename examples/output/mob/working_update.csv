@@ -1,0 +1,4 @@
+"dose","cycle","prior_alpha","prior_beta","direct_dlt","direct_nondlt","direct_alpha","direct_beta","borrowed_dlt","borrowed_nondlt","ordered_alpha","ordered_beta"
+1,1,0.2,0.8,1,0,1.2,0.8,0,0,1.2,0.8
+2,1,0.3,0.7,0,0,0.3,0.7,0.9,0,1.2,0.7
+3,1,0.4,0.6,0,0,0.4,0.6,0.8,0,1.2,0.6

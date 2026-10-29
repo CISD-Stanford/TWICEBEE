@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TWICEBEE Research Code"
+version: "1.0.0"
+type: software
+authors:
+  - given-names: Dehua
+    family-names: Bi
+  - given-names: Ying
+    family-names: Lu
+license: MIT
